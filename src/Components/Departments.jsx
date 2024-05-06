@@ -67,7 +67,7 @@ const Departments = () => {
 
   return (
     <>
-      <div className="px-5 lg:px-11">
+      <div className="px-5 lg:p-11">
         <h2 className="text-4xl font-extrabold py-9 mt-5 text-zinc-700 text-center">Departments</h2>
         <Carousel
           responsive={responsive}

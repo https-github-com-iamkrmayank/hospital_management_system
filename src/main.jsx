@@ -11,6 +11,7 @@ import About from './pages/About'
 import Services from './pages/Services'
 import Layout from './Layout'
 import Doctors from './Components/Doctors'
+import Contact from './pages/Contact'
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -22,6 +23,7 @@ const router = createBrowserRouter(
       <Route path='register' element={<Register/>}/>
       <Route path='about' element={<About/>}/>
       <Route path='doctors' element={<Doctors/>}/>
+      <Route path='contact' element={<Contact/>}/>
     </Route>
   )
 )
