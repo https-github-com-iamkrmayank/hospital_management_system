@@ -85,7 +85,7 @@ const Doctors = () => {
           <h1 className=" text-5xl lg:font-extrabold text-center lg:text-start tracking-wide pt-3">
             Our Doctors
           </h1>
-          <p className=" mt-2 text-center lg:text-start pt-2 pb-4">
+          <p className=" mt-2 text-center lg:text-start pt-2 pb-4 ">
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus,
             quidem.
           </p>
