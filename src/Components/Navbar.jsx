@@ -43,11 +43,11 @@ const Navbar = () => {
             >
               Login
             </NavLink>
-            <button
+            <NavLink to="/appointment"
               className=" shadow-md font-semibold bg-lime-600 border-2 border-lime-700 hover:border-zinc-600 text-white px-4 py-2 rounded-md hover:bg-lime-500 transition duration-300 ease-in-out"
             >
               Book an Appointment
-            </button>
+            </NavLink>
           </div>
         </div>
     </div>

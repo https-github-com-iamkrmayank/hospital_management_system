@@ -6,7 +6,7 @@ const Biography = (imageUrl) => {
         {/* <p>Biography</p> */}
         <h3 className='text-2xl lg:text-5xl text-zinc-900 font-extrabold pb-5'>Who We Are.</h3>
         <div className="text-md lg:text-lg">
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia dicta magnam fuga culpa cum consectetur officiis laboriosam perferendis. Qui, et blanditiis nihil sequi amet quibusdam consequatur totam mollitia maiores iure.</p>
+          <p>FitnessCheck is the best online platform available for booking doctors appointment. Simply register, select a doctor and book your slot. All listed doctors are specialists and have years of experience.</p>
           <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, distinctio cumque corporis quia esse nesciunt eum tempore perspiciatis officia voluptas?</p>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit voluptatum praesentium et sit, distinctio ad?</p>
         </div>

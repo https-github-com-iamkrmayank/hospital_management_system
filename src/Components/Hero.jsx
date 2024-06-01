@@ -6,8 +6,8 @@ const Hero = ({heroUrl}) => {
   return (
     <div className='w-full h-4/6 flex flex-col lg:flex-row justify-center gap-5 items-center pt-24 lg:pt-32 pb-10 px-5'>
       <div className='w-full lg:w-1/3 lg:mt-10'>
-        <h1 className='text-2xl lg:text-5xl text-zinc-900 font-extrabold pb-5'>Lorem  consectetur adipisicing elit. Consequuntur, voluptas.</h1>
-        <p className='text-md lg:text-lg'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias earum deleniti eius in quaerat optio ex quos, et odit adipisci. Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis ex eum tenetur molestiae adipisci quisquam sapiente deserunt nisi ipsam quis vel, harum ab laudantium sequi?</p>
+        <h1 className='text-2xl lg:text-5xl text-zinc-900 font-extrabold pb-5'>The best doctor appointment dashboard.</h1>
+        <p className='text-md lg:text-lg'>FitnessCheck is the best online platform available for booking doctors appointment. Simply register, select a doctor and book your slot. All listed doctors are specialists and have years of experience.</p>
       </div>
       <div>
         <span className='absolute top-[-100px] right-[-300]'>
